@@ -23,7 +23,7 @@ papers:
     selected: y
 
   - title: "Learn to Resolve Conversational Dependency: A Consistency Training Framework for Conversational Question Answering"
-    image: "/assets/publications/2022_excord/image.png"
+    image: "/assets/publications/2021_excord/image.png"
     authors: "<b>Gangwoo Kim</b>, Hyunjae Kim, Jungsoo Park, Jaewoo Kang"
     venue: "ACL 2021 (long)"
     paper_pdf: "https://arxiv.org/abs/2106.11575"
@@ -31,7 +31,7 @@ papers:
     selected: y
 
   - title: "Look at the First Sentence: Position Bias in Question Answering"
-    image: "/assets/publications/2021_position-bias/image.png"
+    image: "/assets/publications/2020_position-bias/image.png"
     authors: "Miyoung Ko, Jinhyuk Lee, Hyunjae Kim, <b>Gangwoo Kim</b>, Jaewoo Kang"
     venue: "EMNLP 2020 (long)"
     paper_pdf: "https://arxiv.org/abs/2004.14602"
@@ -41,7 +41,7 @@ papers:
   - title: "Transferability of Natural Language Inference to Biomedical Question Answering"
     image: "/assets/publications/2020_bioasq/image.png"
     authors: "Minbyul Jeong, Mujeen Sung, <b>Gangwoo Kim</b>, Donghyeon Kim, Wonjin Yoon, Jaehyo Yoo, Jaewoo Kang"
-    venue: "BioNLP Workshop @ CLEF 2020"
+    venue: "BioASQ Workshop @ CLEF 2020"
     paper_pdf: "https://arxiv.org/abs/2007.00217"
     code: "https://github.com/dmis-lab/bioasq8b"
     selected: y
