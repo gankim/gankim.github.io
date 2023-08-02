@@ -1,5 +1,5 @@
 papers:
-  - title: "Pre-trained Vision-Language Model for Radiology Report Summarization"
+  - title: "[Winner of RadSum23 Challenge] Pre-trained Vision-Language Model for Radiology Report Summarization"
     image: "/assets/publications/2023_chexofa/image.png"
     authors: "<b>Gangwoo Kim</b>, Hajung Kim, Lei Ji, Seongsu Bae, Chanhwi Kim, Mujeen Sung, Hyunjae Kim, Kun Yan, Eric Chang, Jaewoo Kang"
     venue: "BioNLP Workshop @ ACL 2023"
@@ -38,7 +38,7 @@ papers:
     code: "https://github.com/dmis-lab/position-bias"
     selected: y
 
-  - title: "Transferability of Natural Language Inference to Biomedical Question Answering"
+  - title: "[Winner of BioASQ 8b Challenge] Transferability of Natural Language Inference to Biomedical Question Answering"
     image: "/assets/publications/2020_bioasq/image.png"
     authors: "Minbyul Jeong, Mujeen Sung, <b>Gangwoo Kim</b>, Donghyeon Kim, Wonjin Yoon, Jaehyo Yoo, Jaewoo Kang"
     venue: "BioASQ Workshop @ CLEF 2020"
