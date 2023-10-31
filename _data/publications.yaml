@@ -1,4 +1,11 @@
 papers:
+  - title: "Tree of Clarifications: Answering Ambiguous Questions with Retrieval-Augmented Large Language Models"
+    image: "/assets/publications/2023_toc/image.png"
+    authors: "<b>Gangwoo Kim</b>, Sungdong Kim, Byeongguk Jeon, Joonsuk Park, Jaewoo Kang"
+    venue: "EMNLP 2023 (Short)"
+    paper_pdf: "https://arxiv.org/abs/2310.14696"
+    selected: y
+
   - title: "[Winner of RadSum23 Challenge] Pre-trained Vision-Language Model for Radiology Report Summarization"
     image: "/assets/publications/2023_chexofa/image.png"
     authors: "<b>Gangwoo Kim</b>, Hajung Kim, Lei Ji, Seongsu Bae, Chanhwi Kim, Mujeen Sung, Hyunjae Kim, Kun Yan, Eric Chang, Jaewoo Kang"
